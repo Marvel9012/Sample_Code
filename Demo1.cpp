@@ -3,5 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"addition is: "<<10+20<<endl;
+    cout<<"addition of 10+20"<<endl;
+
+   
 }
