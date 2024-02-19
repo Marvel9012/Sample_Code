@@ -10,4 +10,5 @@ int main()
     cout<<"hello my friends..gi"<<endl;
     cout<<add(10,20);
     cout<<"hello"<<endl;
+    cout<<"hiii ....."<<endl;
 }
