@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"addition of 10+20"<<endl;
+    cout<<"mathematical calculation"<<endl;
 
-   
+    cout<<"addition removed"<<endl;
 }
